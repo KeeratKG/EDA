@@ -1,2 +1,3 @@
 # EDA
-Exploratory Data Analysis using Python 
+
+Various techniques of drawing inferences from an insurance company dataset have been explored using Python. 
